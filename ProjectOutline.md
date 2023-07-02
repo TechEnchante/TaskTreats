@@ -39,10 +39,12 @@ TaskTreats is a lightweight Python app designed to incentivize productivity thro
 
 ## Project Timeline:
 
-- **Week 1:** Design app layout and user interface. Start with a simple interface using prompts and ASCII art.
-- **Week 2:** Implement task and reward models, actual time tracking feature and data visualization model. Integrate with the user interface. Start sourcing designs for the final GUI and artwork such as logos.
-- **Week 3:** Code the reward assignment algorithm. Conduct initial testing with sample data.
-- **Week 4:** Conduct user testing, gather feedback, and perform bug fixes. Prepare for app deployment.
+- **Week 4:** Design app layout and user interface. Start with a simple interface using prompts and ASCII art.
+- **Week 8:** Implement task and reward models, actual time tracking feature and data visualization model. Integrate with the user interface. Start sourcing designs for the final GUI and artwork such as logos.
+- **Week 12:** Code the reward assignment algorithm. Conduct initial testing with sample data.
+- **Week 16:** Conduct user testing, gather feedback, and perform bug fixes. Prepare for app deployment.
+
+(Adjusted to fit schedule for amount of time I am working on this project)
 
 ## Technology Stack:
 
