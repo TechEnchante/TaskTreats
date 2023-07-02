@@ -21,9 +21,6 @@ def print_banner():
     Task Treats: written by Adam Roberts aka TechEnchante"""
     )
 
-#I should probably comment this later. *shrug* you can probably figure it out...
-#JK, got you good. Okay but yeah, this is task treats.
-
 # Represents a User with username and password attributes
 class User:
     def __init__(self, username, password):
